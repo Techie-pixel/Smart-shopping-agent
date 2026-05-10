@@ -21,7 +21,7 @@
 
 SmartShop is a **voice + text powered AI shopping agent** built for Indian e-commerce.
 
-Speak or type in plain English or Hinglish — *"best gaming laptop under 30000"* — and the agent fetches live products from **Amazon and Flipkart**, detects fake reviews using Groq AI, scores everything by real value-for-money, and presents the best options in a **Jarvis-style dark UI** with animated rings and glowing orb.
+Speak or type in plain English — *"best gaming laptop under 30000"* — and the agent fetches live products from **Amazon and Flipkart**, detects fake reviews using Groq AI, scores everything by real value-for-money, and presents the best options in a **Jarvis-style dark UI** with animated rings and glowing orb.
 
 No sponsored results. No fake ratings. Just the best deal.
 
@@ -69,12 +69,10 @@ No sponsored results. No fake ratings. Just the best deal.
 | Feature | Description |
 |---|---|
 | **Voice Search** | Click mic, speak, silence detected, auto search |
-| **AI Query Parsing** | Understands natural English and Hinglish queries |
 | **Live Product Data** | Real-time results from Amazon and Flipkart |
 | **Fake Review Detector** | Groq AI scores review authenticity per product |
 | **Value Ranking** | Scored on budget fit, rating, volume, authenticity |
 | **Jarvis-style UI** | Dark theme, glowing orb, animated teal rings |
-| **Fallback Mode** | Runs in demo mode even without API keys |
 
 </div>
 
