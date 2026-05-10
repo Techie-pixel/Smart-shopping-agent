@@ -27,6 +27,16 @@ No sponsored results. No fake ratings. Just the best deal.
 
 ---
 
+## Preview
+
+<div align="center">
+  <img src="assets/screenshot-home.png" alt="SmartShop AI — Home" width="80%"/>
+  <br/><br/>
+  <img src="assets/screenshot-results.png" alt="SmartShop AI — Results" width="80%"/>
+</div>
+
+---
+
 ## How It Works
 
 <div align="center">
@@ -220,7 +230,6 @@ git push origin feature/your-feature
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c10,40:003d3d,100:020c10&height=120&section=footer" width="100%"/>
-
 
 *If this helped you, drop a star on the repo.*
 
