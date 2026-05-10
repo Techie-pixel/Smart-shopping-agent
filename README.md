@@ -231,6 +231,6 @@ git push origin feature/your-feature
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c10,40:003d3d,100:020c10&height=120&section=footer" width="100%"/>
 
-*If this helped you, drop a star on the repo.*
+*If this helped you, drop a ⭐ on the repo.*
 
 </div>
