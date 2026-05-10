@@ -9,10 +9,6 @@
 [![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-f55036?style=for-the-badge&logoColor=white)](https://groq.com)
 [![SerpAPI](https://img.shields.io/badge/SerpAPI-Google%20Shopping-2C8CFF?style=for-the-badge)](https://serpapi.com)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00E5C8&center=true&vCenter=true&width=600&lines=Speak+your+query.+Agent+does+the+rest.;Fake+review+detector+powered+by+Groq+AI;Live+data+from+Amazon+%2B+Flipkart;Value-for-money+ranking+%E2%80%94+not+ads" alt="Typing SVG" />
-
 </div>
 
 ---
