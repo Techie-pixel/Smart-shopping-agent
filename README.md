@@ -217,14 +217,6 @@ git push origin feature/your-feature
 # Open a Pull Request
 ```
 
----
-
-## License
-
-Distributed under the **MIT License** — free to use, modify, and distribute.
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c10,40:003d3d,100:020c10&height=120&section=footer" width="100%"/>
